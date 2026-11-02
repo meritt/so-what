@@ -1,0 +1,6 @@
+._*
+.DS_Store
+*.local.*
+.worktrees/
+__pycache__/
+dist/

@@ -1,0 +1,14 @@
+{
+  "name": "so-what",
+  "displayName": "Чтобы что",
+  "version": "0.1.0",
+  "description": "Помогает превратить смутный замысел в идею, видение, цель или задачу, которую человек узнаёт как свою",
+  "author": {
+    "name": "Alexey Simonenko",
+    "email": "alexey@simonenko.dev",
+    "url": "https://simonenko.xyz"
+  },
+  "repository": "https://github.com/meritt/so-what",
+  "license": "MIT",
+  "icon": "./assets/logo.png"
+}

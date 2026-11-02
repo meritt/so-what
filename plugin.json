@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "so-what",
+  "version": "0.1.0",
+  "description": "Помогает превратить смутный замысел в идею, видение, цель или задачу, которую человек узнаёт как свою",
+  "author": {
+    "name": "Alexey Simonenko",
+    "email": "alexey@simonenko.dev",
+    "url": "https://simonenko.xyz"
+  },
+  "repository": "https://github.com/meritt/so-what",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Чтобы что",
+        "shortDescription": "От смутного замысла к цели и задаче",
+        "developerName": "Alexey Simonenko",
+        "websiteURL": "https://simonenko.xyz",
+        "category": "Productivity",
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

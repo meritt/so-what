@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "so-what",
+  "owner": {
+    "name": "Alexey Simonenko",
+    "email": "alexey@simonenko.dev",
+    "url": "https://simonenko.xyz"
+  },
+  "description": "Скиллы Алексея Симоненко для работы с замыслом",
+  "plugins": [
+    {
+      "name": "so-what",
+      "displayName": "Чтобы что",
+      "description": "Помогает превратить смутный замысел в идею, видение, цель или задачу, которую человек узнаёт как свою",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

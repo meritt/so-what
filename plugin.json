@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "so-what",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Помогает превратить смутный замысел в идею, видение, цель или задачу, которую человек узнаёт как свою",
   "author": {
     "name": "Alexey Simonenko",

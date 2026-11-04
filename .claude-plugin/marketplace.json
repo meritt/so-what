@@ -7,11 +7,13 @@
     "url": "https://simonenko.xyz"
   },
   "description": "Скиллы Алексея Симоненко для работы с замыслом",
+  "version": "0.2.0",
   "plugins": [
     {
       "name": "so-what",
       "displayName": "Чтобы что",
       "description": "Помогает превратить смутный замысел в идею, видение, цель или задачу, которую человек узнаёт как свою",
+      "version": "0.2.0",
       "source": "./",
       "category": "productivity"
     }
